@@ -18,6 +18,8 @@ brew install svn
 brew install maven
 brew cask install intellij-idea
 brew cask install visual-studio-code
+# Terminal
+brew install fish
 # IM
 brew cask install skype
 brew cask install telegram
